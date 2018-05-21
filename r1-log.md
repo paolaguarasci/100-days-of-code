@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Paola Guarasci
 
-The log of my #100DaysOfCode challenge. Started on [21 May 2018].
+The log of my #100DaysOfCode challenge. Started on 21 May 2018
 
 ## Log
 This is my first round with this challenge!
