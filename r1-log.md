@@ -10,5 +10,8 @@ I start whit beta path on freeCodeCamp RWB. Just for review the basic!
 
 ### R1D2
 I just found out about beta.freecodecamp.org there is no trace of my progress yesterday!
-Obviously, it's in beta yet!
-I continue with the review, anyway: *CSS and JS basic*.
+~~Obviously, it's in beta yet!~~
+~~I continue with the review, anyway: *CSS and JS basic*.~~
+I have switch to stable curriculum.
+Continue my last run:
+-4 challenge to claim the front end certificate.
