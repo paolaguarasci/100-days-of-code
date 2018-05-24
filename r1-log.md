@@ -23,3 +23,6 @@ Continue my last run:
 **I'm stuck on minimax algorithm.** I need it for one of the last challenges on my
 path, "Tic Tac Toe". I'm tried doing this in C++ first because my JS is little confusing at the moment.
 In fact, i decided to review my JS knowledge.
+
+### R1D4
+**Minimax** at 35% done. It's a long way -.-''''
