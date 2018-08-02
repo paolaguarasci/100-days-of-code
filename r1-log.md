@@ -34,3 +34,7 @@ In fact, i decided to review my JS knowledge.
 
 ### Day 01-08 
 I learned a little bit of E6, OOP, RegEx, Algorithm ad Functional Programming. From today i will update this repo every day!
+
+### Day 09
+Three medium-level algorithms in JS.
+
