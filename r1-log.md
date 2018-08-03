@@ -38,3 +38,6 @@ I learned a little bit of E6, OOP, RegEx, Algorithm ad Functional Programming. F
 ### Day 09
 Three medium-level algorithms in JS.
 
+
+### Day 10
+Stuck with *Intermediate Algorithm Scripting: Spinal Tap Case*.
