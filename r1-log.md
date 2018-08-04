@@ -42,3 +42,6 @@ Three medium-level algorithms in JS.
 ### Day 10
 _Stuck with *Intermediate Algorithm Scripting: Spinal Tap Case*._
 Done!
+
+### Day 11
+6 Algorithm in 1,5hours. Well Done! 
