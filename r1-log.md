@@ -32,16 +32,19 @@ In fact, i decided to review my JS knowledge.
 
 ### Restart!
 
-### Day 01-08 
+### Day 001-008 
 I learned a little bit of E6, OOP, RegEx, Algorithm ad Functional Programming. From today i will update this repo every day!
 
-### Day 09
+### Day 009
 Three medium-level algorithms in JS.
 
 
-### Day 10
+### Day 010
 _Stuck with *Intermediate Algorithm Scripting: Spinal Tap Case*._
 Done!
 
-### Day 11
-6 Algorithm in 1,5hours. Well Done! 
+### Day 011
+6 Algorithm in 1,5hours. Well Done!
+
+### Day 012
+No good day: only 3 algorithm in 2hours :/
