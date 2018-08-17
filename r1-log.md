@@ -48,3 +48,11 @@ Done!
 
 ### Day 012
 No good day: only 3 algorithm in 2hours :/
+
+===
+I'm back, my last update is committed 12 days ago.
+I know, I broke one of the rules of the game. But It's my first time, the next one will be better.
+===
+
+### Day 013
+I'm working with the intermediate algorithms (JS path on Free Code Camp). It's almost done, so I'm planning the rest of the days [-87]
